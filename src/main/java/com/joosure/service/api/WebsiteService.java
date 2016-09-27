@@ -2,6 +2,11 @@ package com.joosure.service.api;
 
 public interface WebsiteService {
 
-	public String getAmountTotal();
+	/**
+	 * 获得前端显示的总额
+	 * 
+	 * @return
+	 */
+	String getAmountTotal();
 
 }
