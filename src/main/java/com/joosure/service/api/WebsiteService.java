@@ -1,5 +1,11 @@
 package com.joosure.service.api;
 
+/**
+ * 前端API
+ * 
+ * @author shawn
+ *
+ */
 public interface WebsiteService {
 
 	/**
